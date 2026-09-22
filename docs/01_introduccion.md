@@ -14,6 +14,8 @@ Las reservas se realizan principalmente por teléfono y posteriormente el person
 
 El hotel busca modernizar su sistema de gestión y disponer de una infraestructura tecnológica que permita centralizar la información y facilitar la gestión de las reservas.
 
+Esta situación constituye el punto de partida para el desarrollo del proyecto.
+
 ## 1.3. Problemática o necesidad
 
 Actualmente, el Hotel Vértigo 1958 depende en gran medida de procedimientos manuales para gestionar la información relacionada con sus reservas.
