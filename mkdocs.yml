@@ -3,3 +3,7 @@ site_name: Proyecto Intermodular ASIR
 nav:
   - Inicio: index.md
   - Introducción: 01_introduccion.md
+  - Análisis del contexto: 02_analisis_contexto.md
+  - Alcance: 03_alcance.md
+  - Requisitos: 04_requisitos.md
+  - Matriz de trazabilidad: 05_matriz_trazabilidad.md
