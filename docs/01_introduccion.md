@@ -63,5 +63,3 @@ Los principales interesados del proyecto son las personas que participan en la g
 | Responsable del proyecto | Diseño e implementación | Desarrollar y documentar la solución |
 | Proveedor de Internet | Proporciona conectividad | Disponer de una conexión adecuada |
 | Empresa de mantenimiento informático | Soporte posterior | Mantener y solucionar problemas de la infraestructura |
-
-hola, prueba
