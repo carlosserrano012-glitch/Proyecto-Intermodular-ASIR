@@ -63,3 +63,19 @@ Los principales interesados del proyecto son las personas que participan en la g
 | Responsable del proyecto | Diseño e implementación | Desarrollar y documentar la solución |
 | Proveedor de Internet | Proporciona conectividad | Disponer de una conexión adecuada |
 | Empresa de mantenimiento informático | Soporte posterior | Mantener y solucionar problemas de la infraestructura |
+## 1.6. Mapa de interesados
+
+El mapa de interesados permite identificar el nivel de influencia y de interés que tiene cada participante en el desarrollo del proyecto. Esta clasificación ayuda a determinar a quién debemos prestar mayor atención durante su realización.
+
+| Interesado | Nivel de influencia | Nivel de interés |
+|---|---|---|
+| Propietario del hotel | Alto | Alto |
+| Personal administrativo | Medio | Alto |
+| Clientes del hotel | Medio | Alto |
+| Responsable del proyecto | Alto | Alto |
+| Proveedor de Internet | Bajo | Medio |
+| Empresa de mantenimiento informático | Medio | Medio |
+
+Los interesados con un nivel alto de influencia e interés requieren una comunicación y seguimiento continuos. El propietario y el responsable del proyecto son especialmente importantes para tomar decisiones y comprobar que se cumplen los objetivos establecidos.
+
+Por otro lado, el personal administrativo y los clientes son fundamentales para conocer las necesidades de uso de la plataforma. Los proveedores y las empresas de mantenimiento intervienen principalmente en aspectos técnicos de la infraestructura.
