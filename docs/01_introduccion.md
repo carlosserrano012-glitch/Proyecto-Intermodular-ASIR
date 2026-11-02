@@ -16,6 +16,8 @@ El hotel busca modernizar su sistema de gestión y disponer de una infraestructu
 
 Esta situación constituye el punto de partida para el desarrollo del proyecto.
 
+El desarrollo de este proyecto permitirá al hotel disponer de una solución tecnológica más organizada, eficiente y accesible, adaptada a sus necesidades actuales y preparada para futuras mejoras.
+
 ## 1.3. Problemática o necesidad
 
 Actualmente, el Hotel Vértigo 1958 depende en gran medida de procedimientos manuales para gestionar la información relacionada con sus reservas.
